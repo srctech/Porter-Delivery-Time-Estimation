@@ -2,6 +2,8 @@
 
 This project builds a regression model to predict food delivery times based on real intra-city logistics data from Porter, India’s largest marketplace for intra-city logistics. The goal is to estimate how long a food order will take to be delivered, based on the order details, restaurant type, and availability of delivery partners.
 
+refer blog: [Predicting Delivery Time in Intra-City Logistics Using Neural Networks](https://medium.com/@shivaramcholleti/predicting-delivery-time-in-intra-city-logistics-using-neural-networks-dd7b7ed7147a)
+
 ## Dataset
 
 The dataset contains over 190,000 delivery records with features including:
